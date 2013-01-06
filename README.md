@@ -1,4 +1,6 @@
-Not Space Invaders is a game very much like the good old Space Invaders, but where the player is the villain. Thus, you play as the aliens and try to destroy the humans preventing the invasion.
+Not Space Invaders
+==================
+Not Space Invaders is a game very much like the good old Space Invaders, but where the player is the villain. This means you play as the aliens and try to destroy the humans preventing the invasion.
 
 Choose one of the invaders using the arrow keys and press [Space] to shoot!
 
