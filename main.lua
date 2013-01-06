@@ -4,7 +4,7 @@ function love.load()
   paddleImage = love.graphics.newImage("res/paddle.png")
 
   cannotShootSound = love.audio.newSource("res/beep.ogg", "static")
-  backgroundMusic = love.audio.newSource("res/hihihi.wav")
+  backgroundMusic = love.audio.newSource("res/music.wav")
 
   spaceInvadersFontBig = love.graphics.setNewFont("res/font.ttf", 50)
   spaceInvadersFontHuge = love.graphics.setNewFont("res/font.ttf", 80)
